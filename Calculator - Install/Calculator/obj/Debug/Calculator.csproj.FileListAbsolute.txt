@@ -1,0 +1,39 @@
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\bin\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\obj\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\bin\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\obj\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator - fix\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Thien Doan\Desktop\Calculator - Copy\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thien Doan\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\bin\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\obj\Debug\Calculator.exe
+C:\Users\Thien Doan\Desktop\Calculator - Copy - Copy\Calculator\obj\Debug\Calculator.pdb
